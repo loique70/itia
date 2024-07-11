@@ -1,0 +1,139 @@
+{
+  "Index": {
+    "title": "Bonjour le monde!"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "aboutUs": "À propos de nous",
+    "contactUs": "Nous contacter",
+    "ourServices": "Services",
+    "blog": "Blog",
+    "blog-title": "Nos dernières nouvelles",
+    "ourAchievements": "Réalisations"
+  },
+  "Locale": {
+    "change": "Changer de langue",
+    "en": "Anglais",
+    "fr": "Français"
+  },
+  "Blog": {
+    "blog": "Nos dernières nouvelles",
+    "by": "Par",
+    "next": "Suivant",
+    "prev": "Précedent",
+    "tags": {
+      "creativity": "Creativité",
+      "computer": "Programmation",
+      "design": "Design"
+    },
+    "bestUIComponents": "Meilleurs composants UI pour sites web modernes",
+    "improveDesignSkills": "9 façons simples d'améliorer vos compétences en design",
+    "improveCodingSpeed": "Conseils pour améliorer rapidement votre vitesse de codage"
+  },
+  "Hero": {
+    "title": "Créez votre projet de rêve avec nous",
+    "description": "Votre succès est notre succès. Nous nous engageons à comprendre vos besoins commerciaux uniques et à adapter des solutions qui non seulement répondent à vos besoins, mais dépassent également vos attentes.",
+    "bestIT": "La Meilleure",
+    "bestSolution": "Solution",
+    "bestBussiness": "Informatique Pour Vos Besoins.",
+    "getStarted": "Commencer",
+    "happyClients": "Clients satisfaits",
+    "industryExperience": "Expérience industrielle",
+    "projectCompleted": "Projets terminés",
+    "awardsWinner": "Lauréats de prix",
+    "actifMember": "Membres actifs",
+    "teamMember": "Membres de l'Équipe"
+  },
+  "Service": {
+    "webDevelopment": {
+      "title": "Développement d'application mobiles et web",
+      "description": "Nous offrons des solutions de développement web et mobile sur mesure, adaptées aux besoins de votre entreprise, utilisant les dernières technologies pour garantir performance et fiabilité...",
+      "altText": "développement web"
+    },
+    "cybersecurity": {
+      "title": "Cybersécurité",
+      "description": "Protégez vos systèmes et données contre les cybermenaces avec nos services de cybersécurité avancés. Nous offrons des évaluations de sécurité, des solutions de protection et des formations...",
+      "altText": "cybersécurité"
+    },
+    "networkTelecom": {
+      "title": "Réseaux et télécommunications",
+      "description": "Optimisez votre infrastructure réseau et télécommunications avec nos services spécialisés. Nous offrons des solutions de connectivité fiables et performantes pour améliorer votre communication...",
+      "altText": "réseaux et télécommunications"
+    },
+    "consulting": {
+      "title": "Services conseils",
+      "description": "Obtenez des conseils d'experts pour vos projets technologiques avec nos services de consultation. Nous vous aidons à définir des stratégies efficaces et à mettre en œuvre des solutions innovantes...",
+      "altText": "consultations"
+    },
+    "dataScience": {
+      "title": "Data Science et IA",
+      "description": "Exploitez la puissance des données et de l'intelligence artificielle pour prendre des décisions éclairées. Nos services de Data Science et IA vous permettent d'analyser et de visualiser vos données...",
+      "altText": "data science et IA"
+    },
+    "button": "En savoir plus",
+    "title": "Nos Services",
+    "digitalTransformation": "Transformation numérique",
+    "cybersecurityAssessment": "Analyse de posture de Cybersécurité",
+    "networking": "Réseautique",
+    "telecommunications": "Télécommunications",
+    "remediationProjects": "Projets de remédiation"
+  },
+  "Newsletter": {
+    "title": "Newsletter",
+    "description": "Inscrivez-vous à notre newsletter pour rester informé des dernières tendances, des articles informatifs et des offres exclusives.",
+    "send": "Envoyer"
+  },
+  "AboutUs": {
+    "title": "Votre Partenaire en Solutions IT Innovantes et Personnalisées",
+    "description": "Chez ITIA Solution Consulting, nous transformons vos idées en réalités avec des solutions IT sur mesure. Fondée pour redéfinir l'industrie, notre mission est de dépasser vos attentes grâce à des services de pointe adaptés à vos besoins spécifiques. Notre équipe d'experts dévoués utilise les dernières technologies pour vous offrir des résultats exceptionnels, garantissant ainsi la croissance et la réussite de votre entreprise dans un environnement numérique en constante évolution.",
+    "bugFreeCode": {
+      "title": "Code Sans Bug",
+      "description": "Nous garantissons des solutions impeccables, sans bugs, pour assurer une performance maximale et une fiabilité inégalée de vos systèmes informatiques."
+    },
+    "premierSupport": {
+      "title": "Support Privilégié",
+      "description": "Notre équipe de support, toujours disponible, vous offre une assistance rapide et des solutions efficaces à tous vos besoins informatiques, vous assurant une tranquillité d'esprit totale."
+    },
+    "flexibilityAdaptability": {
+      "title": "Flexibilité et Adaptabilité",
+      "description": "Nous nous adaptons rapidement aux changements et aux exigences spécifiques de chaque projet pour offrir des solutions flexibles et personnalisées."
+    },
+    "cuttingEdgeTechnology": {
+      "title": "Technologie de Pointe",
+      "description": "Nous utilisons les technologies les plus avancées pour garantir que nos solutions sont à la fois innovantes et efficaces."
+    },
+    "expertTeam": {
+      "title": "Équipe d'Experts",
+      "description": "Notre équipe est composée de professionnels expérimentés et qualifiés, dédiés à fournir des solutions de haute qualité."
+    },
+    "continuousSupport": {
+      "title": "Support Continu",
+      "description": "Nous offrons un support continu pour garantir que vos systèmes fonctionnent parfaitement à tout moment."
+    },
+    "personalizedApproach": {
+      "title": "Approche Personnalisée",
+      "description": "Nous croyons en une approche personnalisée, en travaillant étroitement avec vous pour comprendre et répondre à vos besoins spécifiques."
+    },
+    "enhancedSecurity": {
+      "title": "Sécurité Renforcée",
+      "description": "La sécurité est notre priorité. Nous mettons en place des mesures de sécurité avancées pour protéger vos données et vos systèmes."
+    }
+  },
+
+  "Testimonials": {
+    "title": "La Voix de Nos Clients Satisfaits",
+    "description": "Découvrez les témoignages de nos clients satisfaits. Leur expérience avec ITIA Solution Consulting témoigne de notre engagement à fournir des solutions de qualité, adaptées à leurs besoins spécifiques. Laissez-vous inspirer par leurs succès et rejoignez-nous pour une transformation IT réussie.",
+    "test1": {
+      "designation": "Directrice Marketing",
+      "content": "ITIA Solution Consulting a complètement transformé notre infrastructure IT. Leur équipe d'experts a été incroyablement professionnelle et a su répondre à nos besoins spécifiques avec des solutions innovantes. Grâce à eux, nous avons pu augmenter notre efficacité et notre sécurité. Je les recommande vivement !."
+    },
+    "test2": {
+      "designation": "Chef de Projet",
+      "content": "Collaborer avec ITIA Solution Consulting a été un véritable plaisir. Leur flexibilité et adaptabilité nous ont permis de mener à bien des projets complexes sans aucun accroc. Leur approche personnalisée a vraiment fait la différence. Nous sommes très satisfaits de leur service continu et de leur support réactif."
+    },
+    "test3": {
+      "designation": "Responsable des Opérations",
+      "content": "La technologie de pointe et la sécurité renforcée offertes par ITIA Solution Consulting ont été un atout majeur pour notre entreprise. Leur équipe d'experts a dépassé nos attentes à chaque étape du projet. Leur transparence et leur collaboration efficace ont été déterminantes pour notre succès. Merci à toute l'équipe !"
+    }
+  }
+}
